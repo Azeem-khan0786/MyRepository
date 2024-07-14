@@ -1,2 +1,2 @@
 Azeem khan
-Stydent At Aligarh Muslim University
+Student At Aligarh Muslim University
