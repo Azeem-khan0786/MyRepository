@@ -1,4 +1,14 @@
 Install django and run server
+Note : Make sure you have Python version 3.8.x 👈
+Install a few prerequisite files before running the project 👀
+
+pip install Django
+pip install pillow
+pip install Django-crispy-forms
+pip install crispy-bootstrap4  
+pip install django_cleanup
+pip install sslcommerz-python 
+
 pip --version 
 python3 –version
 dajngoa-admin –version 
