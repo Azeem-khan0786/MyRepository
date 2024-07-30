@@ -16,20 +16,20 @@ From your GitHub account, go to Settings => Developer Settings => Personal Acces
 
 # Remote to local 
 git clone https://github.com/Azeem-khan0786/MyRepository.git (if want to clone into local)
-1.cd Desktop 
-2.mkdir Repository
-3.cd Repository
-4.git clone https://github.com/Azeem-khan0786/MyRepository.git
-5.cd MyRepository
-6.git pull origin main
-7.git status
-8.git add .
-9.git commit -m "first commit"
-10.git push origin main
-11.git status
-12.git branch
-13.git checkout -b newbranch
-14.git branch
+1. cd Desktop 
+2. mkdir Repository
+3. cd Repository
+4. git clone https://github com/Azeem-khan0786/MyRepository git
+5. cd MyRepository
+6. git pull origin main
+7. git status
+8. git add  
+9. git commit -m "first commit"
+10. git push origin main
+11. git status
+12. git branch
+13. git checkout -b newbranch
+14. git branch
 
 # Local to Remote Push repository
 1.cd Desktop 
