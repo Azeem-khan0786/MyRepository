@@ -46,14 +46,13 @@ git clone https://github.com/Azeem-khan0786/MyRepository.git (if want to clone i
 12.git branch
 
 # Genrate personal access Tokan()
-1.Go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password)
-2.Fillup the form
-3.click Generate token
-4.Copy the generated Token, it will be something like ghp_sFhFsSHhT
-5.git remote set-url origin https://Azeem-khan0786:<your-token>@github
-com/Azeem-khan0786/MyRepository.git
-6.c2a5758244ddc2cb8f1187bb3794d508f33e25f9
-7.git remote -v
-8.git push origin main
-9.git status
-10.git branch
+1. Go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password)
+2. Fillup the form
+3. click Generate token
+4. Copy the generated Token, it will be something like ghp_sFhFsSHhT
+5. git remote set-url origin https://Azeem-khan0786:<your-token>@githubcom/Azeem-khan0786/MyRepository.git
+6. c2a5758244ddc2cb8f1187bb3794d508f33e25f9
+7. git remote -v
+8. git push origin main
+9. git status
+10. git branch
