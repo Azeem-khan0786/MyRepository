@@ -32,18 +32,18 @@ git clone https://github.com/Azeem-khan0786/MyRepository.git (if want to clone i
 14. git branch
 
 # Local to Remote Push repository
-1.cd Desktop 
-2.mkdir MyRepository
-3.cd MyRepository
-4.git init
-5.git add .
-6.git commit -m "first commit"
-7.git remote add origin https://github.com/Azeem-khan0786/MyRepository.git
-8.git push -u origin main
-9.git status
-10.git branch
-11.git checkout -b newbranch
-12.git branch
+1. cd Desktop 
+2. mkdir MyRepository
+3. cd MyRepository
+4. git init
+5. git add . 
+6. git commit -m "first commit"
+7. git remote add origin https://github. com/Azeem-khan0786/MyRepository. git
+8. git push -u origin main
+9. git status
+10. git branch
+11. git checkout -b newbranch
+12. git branch
 
 # Genrate personal access Tokan()
 1. Go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password)
