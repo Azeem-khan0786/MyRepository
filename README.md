@@ -52,8 +52,7 @@ git clone https://github.com/Azeem-khan0786/MyRepository.git (if want to clone i
 4.Copy the generated Token, it will be something like ghp_sFhFsSHhT
 5.git remote set-url origin https://Azeem-khan0786:<your-token>@github
 com/Azeem-khan0786/MyRepository.git
-6.c2a5758244ddc2cb8f1187bb3794d508
-f33e25f9
+6.c2a5758244ddc2cb8f1187bb3794d508f33e25f9
 7.git remote -v
 8.git push origin main
 9.git status
